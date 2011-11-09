@@ -5,8 +5,10 @@ Chandan Apsangi (capsang), Vaibhav Gumashta(vgumash), Vartika Singh (vsingh3)
 
 E15: Notification of more kinds of events
 
+Please refer to the checklist at the following Trello link about the modified files with respect to this feature: 
 https://trello.com/card/board/e15-notification-of-more-kinds-of-events/4e97910a88107fb718001fd1/4e979b5888107fb7180255b3
 
+ 
 Notification should be sent for the following events:
 
 	--	When a new account is created, an email is sent to the id used to create the account  
@@ -41,8 +43,10 @@ How to setup and start the application:
 ---------------------------------------------------------------------------------------------------------------------------------------------
 E3: Enhancements to Suggest and Approve
 
+Please refer to the checklist at this Trello link for the details about the files modified with regard to this feature:
 https://trello.com/card/board/e3-enhancements-to-suggest-and-approve/4e97910a88107fb718001fd1/4e979b7f88107fb718025fed
 
+ 
 Checklist:
 
 	--	All topics on the sign-up sheet not just the student suggested ones should have a description.
